@@ -6,4 +6,4 @@ Huddle landing page with single introductory section
 
 Level : Newbie
 
-Live Web : https://hindami.github.io/Huddle-Landing-Page-1/
+Live Site : https://hindami.github.io/Huddle-Landing-Page-1/
